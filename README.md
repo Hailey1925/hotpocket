@@ -1,4 +1,4 @@
-# hotpocket
+# hotpocket nvm i will eat raw tuna instead
 Hotpocket 
 hotpocket
 I am so hungry , I know I should cook
@@ -16,4 +16,6 @@ ooh hotpockets
 My lazyness is at level 1000 I don't want to walk to the kitchen
 Ohh no hotpocket
 I guess we are not eating tonight 
+
+tuna be or tunot be
 
